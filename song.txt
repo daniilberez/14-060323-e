@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 
 .
 addddd
 
 jhkjkhjkh
 kkllk
+=======
+adsaddsadasdsadas
+.
+
+
+
+good commit now
+>>>>>>> Test
